@@ -1,0 +1,15 @@
+For more notes on the theory check the notebook on Notion:
+https://www.notion.so/Exercism-Learning-f11fa4db719f447f8491be31bcbe5204
+
+The topics covered with the corresponding exercises are:
+- Basics (ex1)
+- Anonymous Functions (ex2)
+- Bit Manipulation (ex2)
+- Booleans (ex3)
+- Numbers (ex4)
+- Atoms (ex5)
+- Cond (ex5)
+- Lists (ex6)
+- Multiple Clause Functions (ex7)
+- Guards (ex7)
+- Default Arguments (ex7)
