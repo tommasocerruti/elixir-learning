@@ -15,3 +15,6 @@ defmodule Lasagna do
   def alarm, do: "Ding!"
 
 end
+
+# to print/debug
+IO.puts Lasagna.preparation_time_in_minutes(3)

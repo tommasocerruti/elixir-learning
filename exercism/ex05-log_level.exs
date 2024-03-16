@@ -1,4 +1,5 @@
 defmodule LogLevel do
+
   def to_label(level, legacy?) do
     cond do
       level == 0 and not legacy? -> :trace
@@ -10,6 +11,7 @@ defmodule LogLevel do
       true -> :unknown
     end
   end
+
   def alert_recipient(level, legacy?) do
     label = to_label(level, legacy?)
     cond do
@@ -19,4 +21,5 @@ defmodule LogLevel do
       true -> false
     end
   end
+
 end
