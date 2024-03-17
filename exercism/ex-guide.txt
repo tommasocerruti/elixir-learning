@@ -20,3 +20,8 @@ The topics covered with the corresponding exercises are:
 - Recursion (ex10)
 - Maps (ex11)
 - Module Attributes as Constants (ex11)
+- Docs (ex12)
+- Typespecs (ex12)
+- Charlist (ex13)
+- Case (ex13)
+- IO (ex14)
