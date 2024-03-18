@@ -40,5 +40,3 @@ defmodule HighSchoolSweetheart do
   end
 
 end
-
-IO.puts HighSchoolSweetheart.pair("Tommaso Cerruti","Irmak Yagmurlu")
