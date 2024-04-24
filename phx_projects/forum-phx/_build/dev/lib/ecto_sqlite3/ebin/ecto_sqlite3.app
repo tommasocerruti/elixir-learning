@@ -1,0 +1,11 @@
+{application,ecto_sqlite3,
+             [{optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger,decimal,ecto_sql,
+                             ecto,exqlite]},
+              {description,"An SQLite3 Ecto3 adapter."},
+              {modules,['Elixir.Ecto.Adapters.SQLite3',
+                        'Elixir.Ecto.Adapters.SQLite3.Codec',
+                        'Elixir.Ecto.Adapters.SQLite3.Connection',
+                        'Elixir.Ecto.Adapters.SQLite3.DataType']},
+              {registered,[]},
+              {vsn,"0.15.1"}]}.
